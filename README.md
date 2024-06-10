@@ -15,3 +15,5 @@ Prática com a linguagem Java e os conceitos do paradigma de orientação a obje
 - Jackson
 - JSON
 - API [Gutendex](https://gutendex.com/)
+
+-https://github.com/italojava565/Challanger_LiterAlura-master/tree/master
